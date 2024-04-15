@@ -1,9 +1,7 @@
 ---
-title: Danh_Từ
+title: Danh Từ
 draft: false
 tags:
-  - "#plugin"
-  - feature
 ---
 # Thế nào là Danh từ
 1. Định nghĩa
