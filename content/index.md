@@ -1,8 +1,8 @@
 ---
-title: Welcome to PaLi @ 2024
+title: Welcome to PāLi @ 2024
 ---
 ---
-Những hiểu biết đầu tiên về Pali và Tam Tạng
+Những hiểu biết đầu tiên về Pāli và Tam Tạng
 
 
 

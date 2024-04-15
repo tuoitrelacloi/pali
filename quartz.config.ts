@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Pali 4.0",
+    pageTitle: "🪴 Pāli 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
