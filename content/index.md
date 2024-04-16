@@ -9,6 +9,6 @@ title: Welcome to PāLi @ 2024
 
 THÓI QUEN NGUYÊN TỬ
 
-
+![[Pasted image 20240416051441.png]]
 
 
