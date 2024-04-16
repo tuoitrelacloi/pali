@@ -7,6 +7,3 @@ title: Welcome to PāLi @ 2024
 
 
 
-
----
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
