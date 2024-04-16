@@ -4,9 +4,6 @@ tags: [interface:metaKeywords]
 source: https://suttacentral.net/an3.2/vi/minh_chau?lang=en&reference=none&highlight=false
 author: 
 ---
-
-# AN 3.2: Lakkhaṇasutta—Thích Minh Châu
-
 > ## Excerpt
 > Marks of a fool and an astute person: body, speech, and mind.
 

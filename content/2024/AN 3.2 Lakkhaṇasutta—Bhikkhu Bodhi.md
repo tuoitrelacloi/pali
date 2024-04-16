@@ -5,8 +5,6 @@ source: https://suttacentral.net/an3.2/en/bodhi?lang=en&reference=none&highlight
 author: 
 ---
 
-# AN 3.2: Lakkhaṇasutta—Bhikkhu Bodhi
-
 > ## Excerpt
 > Marks of a fool and an astute person: body, speech, and mind.
 
