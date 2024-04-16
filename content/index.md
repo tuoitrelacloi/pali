@@ -19,3 +19,5 @@ https://github.com/tuoitrelacloi/pali/blob/v4/Pasted%20image%2020240416051137.pn
 ![[Pasted image 20240416051441.png]]
 
 
+`![Engelbart](https://github.com/tuoitrelacloi/pali/blob/v4/Pasted%20image%2020240416051137.png?raw=true)`
+
