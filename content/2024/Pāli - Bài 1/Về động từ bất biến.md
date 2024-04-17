@@ -12,32 +12,5 @@ author:
 
 - Thông thường, chủ từ của nó cũng chính là chủ từ của động từ chính (90%)
 ### Nắm bắt hoàn toàn... rồi
-
-
-
-    
-    use up (resources or reserves) completely.
-    
-    "the country has exhausted its treasury reserves"
-    
-    -   expound on, write about, or explore (a subject or options) so fully that there is nothing further to be said or discovered.
-        
-        "she seemed to have exhausted all permissible topics of conversation"
-        
-        say all there is to say about
-        
-        expound in great detail about
-        
-        leave no stone left unturned
-        
-        go over with a fine-tooth comb
-        
-    
-3.  3.
-    
-    expel (gas or steam) from or into a particular place.
-    
-    "you should never **exhaust** bathroom air **into** your attic"
-    
-
-Từ nguyên
+###### sau đó đến hành động trong động từ chính.
+Có thể có nhiều động từ bất biến đứng liên tiếp nhau, và nó cũng thể hiện hay miêu tả các hành động theo trật tự truớc sau như thứ tự sắp xếp của các động từ bất biến đó
