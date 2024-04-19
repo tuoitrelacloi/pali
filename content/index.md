@@ -1,17 +1,24 @@
 ---
 title: Welcome to PāLi @ 2024
 ---
-# PHÁP HỘ TRÌ NGUỜI HÀNH PHÁP
+## Này các Tỷ-kheo, những gì một bậc Ðạo sư cần phải làm cho những đệ tử, vì hạnh phúc, vì lòng từ mẫn, vì khởi lên lòng từ mẫn đối với họ; tất cả, Ta đã làm cho các Ông.
+
+
+## Này các Tỷ-kheo, đây là những gốc cây, đây là những căn nhà trống, hãy tu tập Thiền định. Chớ có phóng dật. Chớ để hối hận về sau. Ðây là lời giáo giới của Ta cho các Ông.
+
+---
+
 
 1. HÒN TUYẾT LĂN
 ![How to publish your notes for free with Quartz 2024-01-22 19.17.08.excalidraw.dark.png](https://azfin.vn/wp-content/uploads/2023/07/hieu-ung-hon-tuyet-lan-bi-mat-lam-giau-cua-cac-ty-phu-3-1800x1000.jpg)
 
-This setup is free, with the exception of the last, optional, step. I'm also doing all of this on a [Mac](https://notes.nicolevanderhoeven.com/macOS). You may have to tailor terminal commands if you're using a different operating system.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W7kTtn9empU" title="Top 10 Obsidian Plugins I Can&#39;t Do Without" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Chiến thắng sự trì hoãn
+2. Tư duy ngược
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aUYcIH7K7pA" title="Khoa Học Về Chiến Thắng Trì Hoãn (99.99%) | Tư Duy Ngược" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ![[Pasted image 20240416051441.png]]
 
 
-`![Engelbart](https://talkfirst.vn/wp-content/uploads/2021/09/danh-dong-tu-trong-tieng-1-1024x687.jpeg)`
+
 
