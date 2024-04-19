@@ -1,0 +1,3 @@
+- Danh từ có thể chia tính: Nam tính, Nữ tính, Trung tính
+- Danh từ có chia theo số: Số it, số nhiều
+- Danh từ có thể chia theo cách: có 8 biến cách của Danh từ
