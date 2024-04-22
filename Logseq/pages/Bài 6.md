@@ -1,0 +1,9 @@
+-
+- Tính ngữ pháp của Danh từ
+-
+- tính tự nhiên
+- Chỉ những gì liên quan đến nguời nam -> Nam tính
+- Liên quan đến người nữ -> Nữ tính
+- Còn lại là trung tính
+- [[Động từ bất biến]]
+-

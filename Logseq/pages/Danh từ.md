@@ -1,3 +1,14 @@
 - Danh từ có thể chia tính: Nam tính, Nữ tính, Trung tính
 - Danh từ có chia theo số: Số it, số nhiều
 - Danh từ có thể chia theo cách: có 8 biến cách của Danh từ
+- ---
+- Chủ cách - Nominative
+- Trực bổ cách - Accusative
+- Sở Hữu cách - genative
+- Gián bổ cách dative
+- dụng cụ cách - instrumental
+- xuất xứ - ablative
+- vị trí cách - locative
+- Hô cách - vocative
+- ---
+-

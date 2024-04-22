@@ -1,0 +1,2 @@
+- Không hẳn là động từ vì nó không chia theo ngôi, theo số
+- Nhưng lại có thể lấy túc từ

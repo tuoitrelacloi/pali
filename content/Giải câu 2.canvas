@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"8aa59380e85f643d","type":"text","text":"## Nâhaṃ, bhikkhave, aññaṃ ekarūpaṃ pi samanupassāmi, yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati, yathayidaṃ, bhikkhave, \n## itthirūpaṃ. Itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatîti.","x":-660,"y":-400,"width":1340,"height":133},
+		{"id":"537842c34f2509ed","type":"text","text":" ## itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatîti.","x":-660,"y":-180,"width":960,"height":90},
+		{"id":"86e95138c5bc1b04","type":"text","text":"# tiṭṭhati","x":-360,"y":-40,"width":250,"height":60},
+		{"id":"cb295ef79466cd25","type":"text","text":"# Itthirūpaṃ","x":-660,"y":-40,"width":250,"height":60},
+		{"id":"6d77e58abba141a5","type":"text","text":"# cittaṃ","x":-60,"y":-40,"width":250,"height":60},
+		{"id":"3adb6065a46d31ce","type":"text","text":"# purisassa","x":65,"y":80,"width":250,"height":60},
+		{"id":"fc1dfa261dda506b","type":"text","text":"# pariyādāya","x":-260,"y":80,"width":250,"height":60},
+		{"id":"4ae91e5f2d6ccbe5","type":"text","text":"GEN or DAT","x":100,"y":160,"width":250,"height":60},
+		{"id":"adee210841ce672c","type":"text","text":"NOM or ACC","x":-610,"y":80,"width":250,"height":60},
+		{"id":"4c9b26ff4be2f4a8","type":"text","text":"NOM or ACC","x":65,"y":280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"be37f98059fa53a0","fromNode":"cb295ef79466cd25","fromSide":"right","toNode":"86e95138c5bc1b04","toSide":"left"},
+		{"id":"0c3c7f2d701a231c","fromNode":"86e95138c5bc1b04","fromSide":"right","toNode":"6d77e58abba141a5","toSide":"left"},
+		{"id":"8eed358c013eeae3","fromNode":"6d77e58abba141a5","fromSide":"bottom","toNode":"3adb6065a46d31ce","toSide":"left"},
+		{"id":"9460ac2f6789c20f","fromNode":"cb295ef79466cd25","fromSide":"bottom","toNode":"adee210841ce672c","toSide":"left"},
+		{"id":"3201cc24c67519a0","fromNode":"6d77e58abba141a5","fromSide":"bottom","toNode":"4c9b26ff4be2f4a8","toSide":"left"},
+		{"id":"44cd6b00bfd7dd25","fromNode":"cb295ef79466cd25","fromSide":"right","toNode":"fc1dfa261dda506b","toSide":"left"}
+	]
+}

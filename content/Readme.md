@@ -2,24 +2,9 @@
 
 ## Những nhân tố chính của file README
 
-Bạn nên đảm bảo file README bao gồm thông tin cần thiết về dự án, cung cấp đủ ngữ cảnh cho mọi người dùng thiết lập và chạy, không có bất kỳ quy tắc nghiêm ngặt nào phải tuân theo nhưng dưới đây là một số thành phần chính bạn nên bao gồm:
-
-- Tên dự án rõ nghĩa ở phía trên đầu của README.
-- Mô tả dự án tóm tắt nội dung về mục tiêu và đặc điểm chính.
-- Trợ giúp trực quan bằng ảnh chụp màn hình, video, thậm chí cả GIF.
-- Hướng dẫn cài đặt.
-- Cách dùng và ví dụ.
-- Phần đóng góp bao gồm điều kiện được chấp nhận.
-- Giải pháp khắc phục lỗi phổ biến và trả lời những câu hỏi thường gặp.
-- Phần phụ thuộc, bao gồm danh sách thư viện, package cần để chạy dự án.
-- Phần hỗ trợ bao gồm thông tin liên lạc của đội ngũ hỗ trợ.
-- Công nhận các cá nhân, tổ chức đã đóng góp cho dự án của bạn.
-- Tài liệu tham khảo, bổ sung và URL liên quan.
-- Giấy phép.
-- Lịch sử thay đổi.
-- Những lỗi đã biết
-- Huy hiệu (tùy chọn) thể hiện trạng thái bản dựng và các chỉ số liên quan khác.
-
+https://bodhimonastery.org/a-course-in-the-pali-language.html
+[[Bikkhu Boddhi]]
+[ A Course in the Pali Language](https://bodhimonastery.org/a-course-in-the-pali-language.html)
 ## Cách viết file README tốt nhất
 
 - Viết nó thật chính xác, đi thẳng vào ý chính, tránh thông tin dư thừa.
